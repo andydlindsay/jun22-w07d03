@@ -5,7 +5,7 @@
 - [x] Pure Functions and Side Effects
 - [x] `useEffect`
 - [x] Cleanup
-- [ ] Dependencies
+- [x] Dependencies
 - [x] _useEffect_ Flow
 
 ### Rules for Hooks
